@@ -1,0 +1,9 @@
+C:\Users\hyoil\source\repos\C#\Personal_Project\Rocket_Loading_Screen\bin\Debug\Rocket_Loading_Screen.pdb
+C:\Users\hyoil\source\repos\C#\Personal_Project\Rocket_Loading_Screen\obj\Debug\Rocket_Loading_Screen.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\Personal_Project\Rocket_Loading_Screen\obj\Debug\Rocket_Loading_Screen.Form1.resources
+C:\Users\hyoil\source\repos\C#\Personal_Project\Rocket_Loading_Screen\obj\Debug\Rocket_Loading_Screen.Properties.Resources.resources
+C:\Users\hyoil\source\repos\C#\Personal_Project\Rocket_Loading_Screen\obj\Debug\Rocket_Loading_Screen.csproj.GenerateResource.cache
+C:\Users\hyoil\source\repos\C#\Personal_Project\Rocket_Loading_Screen\obj\Debug\Rocket_Loading_Screen.pdb
+C:\Users\hyoil\source\repos\C#\Personal_Project\Rocket_Loading_Screen\bin\Debug\Rocket_Loading_Screen.exe.config
+C:\Users\hyoil\source\repos\C#\Personal_Project\Rocket_Loading_Screen\bin\Debug\Rocket_Loading_Screen.exe
+C:\Users\hyoil\source\repos\C#\Personal_Project\Rocket_Loading_Screen\obj\Debug\Rocket_Loading_Screen.exe
